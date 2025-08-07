@@ -1,0 +1,4 @@
+# Uploads directory for user-uploaded files
+# This directory stores temporarily uploaded files during processing
+# 
+# Files can be automatically cleaned up based on configuration

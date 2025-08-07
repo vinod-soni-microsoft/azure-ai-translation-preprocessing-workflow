@@ -1,0 +1,13 @@
+2025-08-07 12:49:27,044 - DocumentProcessor - INFO - Metadata logged for sample_valid.docx
+2025-08-07 12:49:27,082 - DocumentProcessor - INFO - validation - sample_valid.docx - success
+2025-08-07 12:49:27,095 - DocumentProcessor - INFO - content_analysis - sample_valid.docx - success
+2025-08-07 12:49:27,102 - DocumentProcessor - INFO - complete_processing - sample_valid.docx - success
+2025-08-07 12:49:29,147 - DocumentProcessor - ERROR - validation_only - tmpyyukns14_fake_docx.docx - failure - Error: File is not a valid DOCX document (invalid internal structure)
+2025-08-07 12:55:53,912 - DocumentProcessor - INFO - Metadata logged for fake_docx.docx
+2025-08-07 12:55:53,912 - DocumentProcessor - ERROR - validation - fake_docx.docx - failure - Error: File is not a valid DOCX document (invalid internal structure)
+2025-08-07 12:56:29,515 - DocumentProcessor - INFO - Metadata logged for sample_valid.docx
+2025-08-07 12:56:29,534 - DocumentProcessor - INFO - validation - sample_valid.docx - success
+2025-08-07 12:56:29,581 - DocumentProcessor - INFO - content_analysis - sample_valid.docx - success
+2025-08-07 12:56:29,582 - DocumentProcessor - INFO - complete_processing - sample_valid.docx - success
+2025-08-07 13:10:12,999 - DocumentProcessor - INFO - validation_only - tmp0135l7zb_sample_valid.docx - success
+2025-08-07 13:10:40,137 - DocumentProcessor - INFO - validation_only - tmpxm8vf323_sample_valid.docx - success

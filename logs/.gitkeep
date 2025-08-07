@@ -1,0 +1,6 @@
+# Logs directory for document processing operations
+# This directory contains:
+# - document_processing.log: Text-based operation logs
+# - metadata.jsonl: Structured JSON logs for analysis
+# 
+# Files are automatically created by the MetadataLogger component

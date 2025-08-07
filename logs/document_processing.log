@@ -1,0 +1,13 @@
+2025-08-07 12:45:59,546 - DocumentProcessor - INFO - Metadata logged for sample_valid.docx
+2025-08-07 12:45:59,581 - DocumentProcessor - INFO - validation - sample_valid.docx - success
+2025-08-07 12:45:59,625 - DocumentProcessor - INFO - content_analysis - sample_valid.docx - success
+2025-08-07 12:45:59,627 - DocumentProcessor - INFO - complete_processing - sample_valid.docx - success
+2025-08-07 12:45:59,629 - DocumentProcessor - INFO - validation_only - sample_valid.docx - success
+2025-08-07 12:45:59,657 - DocumentProcessor - INFO - Metadata logged for fake_docx.docx
+2025-08-07 12:45:59,676 - DocumentProcessor - ERROR - validation - fake_docx.docx - failure - Error: File is not a valid DOCX document (invalid internal structure)
+2025-08-07 12:45:59,679 - DocumentProcessor - INFO - Metadata logged for empty_invalid.docx
+2025-08-07 12:45:59,681 - DocumentProcessor - ERROR - validation - empty_invalid.docx - failure - Error: File is not a valid DOCX document (invalid internal structure)
+2025-08-07 12:45:59,682 - DocumentProcessor - INFO - Metadata logged for nonexistent.docx
+2025-08-07 12:45:59,683 - DocumentProcessor - ERROR - validation - nonexistent.docx - failure - Error: File does not exist: uploads\nonexistent.docx
+2025-08-07 12:45:59,711 - DocumentProcessor - INFO - Metadata logged for sample.txt
+2025-08-07 12:45:59,713 - DocumentProcessor - ERROR - conversion - sample.txt - failure - Error: LibreOffice not found. Please install LibreOffice for format conversion.
